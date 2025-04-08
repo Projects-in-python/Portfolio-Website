@@ -725,23 +725,24 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://hashnode.com/@uttamssingh",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: "Kalyan, Maharashtra, India , 421201",
+    locality: "Mumbai",
+    country: "Mumbai , India",
+    region: "Kalyan",
+    postalCode: "421201",
+    streetAddress: "90 ft road",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link:
+      "https://www.google.co.in/maps/@25.914448,82.0113595,3a,75y,148.92h,87.1t/data=!3m7!1e1!3m5!1sqlWUtjneQ6GlglD-u2KlNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.9002239935574607%26panoid%3DqlWUtjneQ6GlglD-u2KlNQ%26yaw%3D148.92243292286489!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNjM5SAFQAw%3D%3D",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone Number",
+    subtitle: "+91 9670064455",
   },
 };
 
